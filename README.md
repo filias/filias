@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am responsible for the Bratislava chapter of [Pyladies](https://pyladies.com/). Here is our [github](https://github.com/pyladies-bratislava).
+I was responsible for the Bratislava chapter of [Pyladies](https://pyladies.com/) and created some materials for learning mostly Python.
+Here is our [github](https://github.com/pyladies-bratislava).
 
 [![@filias's Holopin board](https://holopin.me/filias)](https://holopin.io/@filias)
 
